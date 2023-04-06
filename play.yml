@@ -1,0 +1,6 @@
+---
+- name: some role
+  hosts: localhost
+  roles:
+    - role: test_role
+
